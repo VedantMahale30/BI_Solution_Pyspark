@@ -13,10 +13,15 @@ Insights and Visualization: Supports BI dashboards and ML-ready datasets for pre
 Project Architecture:
 
 The solution integrates the following Hadoop ecosystem components:
+
 HDFS: Distributed storage for raw and processed data.
+
 Apache Spark: In-memory processing for transformations and aggregations.
+
 Apache Hive: Data warehousing and ad-hoc querying.
+
 YARN: Resource management and job scheduling.
+
 Hue/Power BI/Tableau: Visualization tools for insights.
 
 Workflow:
