@@ -42,10 +42,16 @@ Export aggregated data for use in Power BI/Tableau.
 Technologies Used:
 
 HDFS
+
 Apache Spark (PySpark SQL)
+
 Apache Hive
+
 YARN
+
 Visualization Tools: Tableau, Power BI
+
 Languages: Python, SQL
+
 Other Tools: Hue, Git
 
